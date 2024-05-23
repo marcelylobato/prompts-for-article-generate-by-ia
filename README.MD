@@ -16,7 +16,7 @@
 # Projeto artigo técnico gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me).
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o BootCamp Santander  2024 com o querido Felipe Aguiar,instrutor técnico na plataforma da [DIO](https://dio.me).
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
@@ -65,7 +65,7 @@ Lexica.art：
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
 
-## 👨‍💻 júnior
+## 👨‍💻 Gestão de TI |  Desenvolvedora Front-End
 
 <p>
     <img 
